@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase - TicTacToe WIth Important Firebase Features</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">907034743138378</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb907034743138378</string>
+
+    <string name="matchmaker"> These are the players that are currently online. Select one of them to play against.</string>
+</resources>
